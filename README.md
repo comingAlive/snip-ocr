@@ -1,7 +1,8 @@
 # Snip OCR.
 
 A tray application for snipping screen and extracting text value from it to the clipboard, using Tesseract.  
-**The app doesn't have graphical notifications or sound effects on snipping at the moment. After you release the `ctrl`, the extracted text is already in your clipboard.**
+**The app doesn't have graphical notifications or sound effects on snipping at the moment.  
+After you release the `ctrl`, the extracted text is already in your clipboard.**
 
 # Installation:
 

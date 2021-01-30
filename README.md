@@ -5,15 +5,15 @@ A tray application for snipping screen and extracting text value from it to the 
 # Installation:
 
 **Windows**:\
-copy `snip-ocr` folder to `C:/Program Files/` or other direction.\
-launch `snip-ocr.exe`
+Copy `snip-ocr` folder to `C:/Program Files/` or other direction.\
+Launch `snip-ocr.exe`
 
 #### Or
 
-compile from `src` with `make` or `mingw32-make` (requires gnuwin make or msys32-make)
+Compile from `src` with `make` or `mingw32-make` (requires gnuwin make or msys32-make)
 
 # Usage:
 
-press `Take Snip`\
-start snipping by holding `ctrl`\
+Right-click Snip OCR tray and press `Take Snip`\
+Start snipping by holding `ctrl`\
 3 seconds after you release the button you will see an alert
